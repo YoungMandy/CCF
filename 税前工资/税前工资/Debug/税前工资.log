@@ -1,0 +1,43 @@
+﻿生成启动时间为 2017/11/29 10:34:44。
+     1>项目“d:\用户目录\我的文档\visual studio 2010\Projects\税前工资\税前工资\税前工资.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“d:\用户目录\我的文档\visual studio 2010\Projects\税前工资\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\税前工资.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\税前工资.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\税前工资.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "税前工资.cpp"
+         税前工资.cpp
+     1>d:\用户目录\我的文档\visual studio 2010\projects\税前工资\税前工资\税前工资.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\用户目录\我的文档\visual studio 2010\projects\税前工资\税前工资\税前工资.cpp(32): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>d:\用户目录\我的文档\visual studio 2010\projects\税前工资\税前工资\税前工资.cpp(33): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>d:\用户目录\我的文档\visual studio 2010\projects\税前工资\税前工资\税前工资.cpp(34): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>d:\用户目录\我的文档\visual studio 2010\projects\税前工资\税前工资\税前工资.cpp(35): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>d:\用户目录\我的文档\visual studio 2010\projects\税前工资\税前工资\税前工资.cpp(36): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>d:\用户目录\我的文档\visual studio 2010\projects\税前工资\税前工资\税前工资.cpp(37): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>d:\用户目录\我的文档\visual studio 2010\projects\税前工资\税前工资\税前工资.cpp(38): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>d:\用户目录\我的文档\visual studio 2010\projects\税前工资\税前工资\税前工资.cpp(39): warning C4715: “f”: 不是所有的控件路径都返回值
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\税前工资.exe.embed.manifest.res" "Debug\税前工资_manifest.rc" 
+       Link:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\用户目录\我的文档\visual studio 2010\Projects\税前工资\Debug\税前工资.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\税前工资.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\用户目录\我的文档\visual studio 2010\Projects\税前工资\Debug\税前工资.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\用户目录\我的文档\visual studio 2010\Projects\税前工资\Debug\税前工资.lib" /MACHINE:X86 "Debug\税前工资.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\税前工资.obj"
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\税前工资.exe.embed.manifest" /manifest "Debug\税前工资.exe.intermediate.manifest"
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\税前工资.exe.embed.manifest.res" "Debug\税前工资_manifest.rc" 
+       LinkEmbedManifest:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\用户目录\我的文档\visual studio 2010\Projects\税前工资\Debug\税前工资.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\税前工资.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\用户目录\我的文档\visual studio 2010\Projects\税前工资\Debug\税前工资.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\用户目录\我的文档\visual studio 2010\Projects\税前工资\Debug\税前工资.lib" /MACHINE:X86 "Debug\税前工资.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\税前工资.obj"
+         税前工资.vcxproj -> d:\用户目录\我的文档\visual studio 2010\Projects\税前工资\Debug\税前工资.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\税前工资.unsuccessfulbuild”。
+         正在对“Debug\税前工资.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\用户目录\我的文档\visual studio 2010\Projects\税前工资\税前工资\税前工资.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.14

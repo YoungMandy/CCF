@@ -1,0 +1,32 @@
+﻿生成启动时间为 2017/12/1 17:32:04。
+     1>项目“d:\用户目录\我的文档\visual studio 2010\Projects\日期计算\日期计算\日期计算.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\日期计算.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\日期计算.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "日期计算.cpp"
+         日期计算.cpp
+     1>d:\用户目录\我的文档\visual studio 2010\projects\日期计算\日期计算\日期计算.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\用户目录\我的文档\visual studio 2010\projects\日期计算\日期计算\日期计算.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\用户目录\我的文档\visual studio 2010\Projects\日期计算\Debug\日期计算.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\日期计算.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\用户目录\我的文档\visual studio 2010\Projects\日期计算\Debug\日期计算.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\用户目录\我的文档\visual studio 2010\Projects\日期计算\Debug\日期计算.lib" /MACHINE:X86 "Debug\日期计算.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\日期计算.obj"
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\日期计算.exe.embed.manifest" /manifest "Debug\日期计算.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         日期计算.vcxproj -> d:\用户目录\我的文档\visual studio 2010\Projects\日期计算\Debug\日期计算.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\日期计算.unsuccessfulbuild”。
+         正在对“Debug\日期计算.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\用户目录\我的文档\visual studio 2010\Projects\日期计算\日期计算\日期计算.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.92

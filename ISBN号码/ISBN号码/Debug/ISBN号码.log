@@ -1,0 +1,30 @@
+﻿生成启动时间为 2017/12/2 15:50:19。
+     1>项目“d:\用户目录\我的文档\visual studio 2010\Projects\ISBN号码\ISBN号码\ISBN号码.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\ISBN号码.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ISBN号码.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "ISBN号码.cpp"
+         ISBN号码.cpp
+     1>d:\用户目录\我的文档\visual studio 2010\projects\isbn号码\isbn号码\isbn号码.cpp(38): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 d:\software\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\用户目录\我的文档\visual studio 2010\Projects\ISBN号码\Debug\ISBN号码.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ISBN号码.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\用户目录\我的文档\visual studio 2010\Projects\ISBN号码\Debug\ISBN号码.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\用户目录\我的文档\visual studio 2010\Projects\ISBN号码\Debug\ISBN号码.lib" /MACHINE:X86 "Debug\ISBN号码.exe.embed.manifest.res"
+         "Debug\ISBN号码.obj"
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ISBN号码.exe.embed.manifest" /manifest "Debug\ISBN号码.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         ISBN号码.vcxproj -> d:\用户目录\我的文档\visual studio 2010\Projects\ISBN号码\Debug\ISBN号码.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ISBN号码.unsuccessfulbuild”。
+         正在对“Debug\ISBN号码.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\用户目录\我的文档\visual studio 2010\Projects\ISBN号码\ISBN号码\ISBN号码.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.57

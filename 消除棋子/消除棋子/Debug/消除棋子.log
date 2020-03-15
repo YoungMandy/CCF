@@ -1,0 +1,38 @@
+﻿生成启动时间为 2017/12/1 15:43:35。
+     1>项目“d:\用户目录\我的文档\visual studio 2010\Projects\消除棋子\消除棋子\消除棋子.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\消除棋子.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\消除棋子.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\消除棋子.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\消除棋子.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "消除棋子.cpp"
+         消除棋子.cpp
+     1>d:\用户目录\我的文档\visual studio 2010\projects\消除棋子\消除棋子\消除棋子.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\用户目录\我的文档\visual studio 2010\projects\消除棋子\消除棋子\消除棋子.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\消除棋子.exe.embed.manifest.res" "Debug\消除棋子_manifest.rc" 
+       Link:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\用户目录\我的文档\visual studio 2010\Projects\消除棋子\Debug\消除棋子.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\消除棋子.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\用户目录\我的文档\visual studio 2010\Projects\消除棋子\Debug\消除棋子.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\用户目录\我的文档\visual studio 2010\Projects\消除棋子\Debug\消除棋子.lib" /MACHINE:X86 "Debug\消除棋子.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\消除棋子.obj"
+       Manifest:
+         正在删除文件“Debug\消除棋子.exe.embed.manifest”。
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\消除棋子.exe.embed.manifest" /manifest "Debug\消除棋子.exe.intermediate.manifest"
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\消除棋子.exe.embed.manifest.res" "Debug\消除棋子_manifest.rc" 
+       LinkEmbedManifest:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\用户目录\我的文档\visual studio 2010\Projects\消除棋子\Debug\消除棋子.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\消除棋子.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\用户目录\我的文档\visual studio 2010\Projects\消除棋子\Debug\消除棋子.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\用户目录\我的文档\visual studio 2010\Projects\消除棋子\Debug\消除棋子.lib" /MACHINE:X86 "Debug\消除棋子.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\消除棋子.obj"
+         消除棋子.vcxproj -> d:\用户目录\我的文档\visual studio 2010\Projects\消除棋子\Debug\消除棋子.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\消除棋子.unsuccessfulbuild”。
+         正在对“Debug\消除棋子.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\用户目录\我的文档\visual studio 2010\Projects\消除棋子\消除棋子\消除棋子.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.26

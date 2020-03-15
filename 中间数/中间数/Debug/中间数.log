@@ -1,0 +1,38 @@
+﻿生成启动时间为 2017/11/29 16:26:54。
+     1>项目“d:\用户目录\我的文档\visual studio 2010\Projects\中间数\中间数\中间数.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\中间数.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\中间数.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\中间数.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\中间数.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "中间数.cpp"
+         中间数.cpp
+     1>d:\用户目录\我的文档\visual studio 2010\projects\中间数\中间数\中间数.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\用户目录\我的文档\visual studio 2010\projects\中间数\中间数\中间数.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\software\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\中间数.exe.embed.manifest.res" "Debug\中间数_manifest.rc" 
+       Link:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\用户目录\我的文档\visual studio 2010\Projects\中间数\Debug\中间数.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\中间数.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\用户目录\我的文档\visual studio 2010\Projects\中间数\Debug\中间数.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\用户目录\我的文档\visual studio 2010\Projects\中间数\Debug\中间数.lib" /MACHINE:X86 "Debug\中间数.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\中间数.obj"
+       Manifest:
+         正在删除文件“Debug\中间数.exe.embed.manifest”。
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\中间数.exe.embed.manifest" /manifest "Debug\中间数.exe.intermediate.manifest"
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\中间数.exe.embed.manifest.res" "Debug\中间数_manifest.rc" 
+       LinkEmbedManifest:
+         D:\software\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\用户目录\我的文档\visual studio 2010\Projects\中间数\Debug\中间数.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\中间数.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\用户目录\我的文档\visual studio 2010\Projects\中间数\Debug\中间数.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\用户目录\我的文档\visual studio 2010\Projects\中间数\Debug\中间数.lib" /MACHINE:X86 "Debug\中间数.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\中间数.obj"
+         中间数.vcxproj -> d:\用户目录\我的文档\visual studio 2010\Projects\中间数\Debug\中间数.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\中间数.unsuccessfulbuild”。
+         正在对“Debug\中间数.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\用户目录\我的文档\visual studio 2010\Projects\中间数\中间数\中间数.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.42
